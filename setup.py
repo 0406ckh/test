@@ -8,7 +8,7 @@ setuptools.setup(
   author='0406ckh',
   author_email='0406ckh@naver.com',
   url="https://github.com/0406ckh/test.git",
-  download_url="https://github.com/0406ckh/test/archive/refs/heads/search.zip",
+  download_url="https://github.com/0406ckh/test/archive/refs/tags/v0.0.1.zip",
   install_requires=['pytest'],
   long_description='oss-dev calculator python module',
   long_description_content_type='text/markdown',
